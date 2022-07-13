@@ -13,13 +13,13 @@ A predefined YOLO v3 model was retrained to detect fire using `imageai` module w
 
 ## Screenshots
 
-![Test Image](https://github.com/sudo-gyan/FireDetection/raw/master/tests/image/test.jpg)
-![Processed Image](https://github.com/sudo-gyan/FireDetection/raw/master/tests/image/test-processed.png)
+![Test Image](https://github.com/bishal116/FireDetection/blob/main/tests/image/test.jpg)
+![Processed Image](https://github.com/bishal116/FireDetection/blob/main/tests/image/test-processed.png)
 
 ## Videos
 
-![Test Video](https://github.com/sudo-gyan/FireDetection/raw/master/tests/video/video.mp4)
-![Processed Video](https://github.com/sudo-gyan/FireDetection/raw/master/tests/video/video-processed.avi)
+![Test Video](https://github.com/bishal116/FireDetection/blob/main/tests/video/video.mp4)
+![Processed Video](https://github.com/bishal116/FireDetection/blob/main/tests/video/video-processed.avi)
 
 ## How To Run
 
